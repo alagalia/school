@@ -11,6 +11,10 @@ namespace preorazmerqvaneNaRazmeri
         static void Main(string[] args)
 
         {
+<<<<<<< HEAD
+=======
+            Console.OutputEncoding = Encoding.UTF8;
+>>>>>>> 5fa856a0400e49e281581166e6596878a55bdc13
             Console.Write("Дебелина на кант (mm):");
 
             decimal kant = decimal.Parse(Console.ReadLine());
@@ -50,8 +54,12 @@ namespace preorazmerqvaneNaRazmeri
             }
             else
             {
+<<<<<<< HEAD
                 String[] oldDimmensions = new string[] 
                 { 
+=======
+                String[] oldDimmensions = new string[] { 
+>>>>>>> 5fa856a0400e49e281581166e6596878a55bdc13
                 
                     "83.2 63.7",
                     "83.2 61.9",
@@ -85,6 +93,11 @@ namespace preorazmerqvaneNaRazmeri
 
         private static void PrintNewSize(List<string> noviRazmeri)
         {
+<<<<<<< HEAD
+=======
+            Console.WriteLine();
+
+>>>>>>> 5fa856a0400e49e281581166e6596878a55bdc13
             for (int i = 0; i < noviRazmeri.Count(); i++)
             {
 
