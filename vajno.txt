@@ -1,0 +1,16 @@
+support.entrySet().stream().sorted(Map.Entry.comparingByValue());
+
+string = BigDecimal
+BigDecimal.toPlainString() - pokazva cqloto chislo kolkoto i dylgo da e ... 
+
+
+mnogo vajen regex 
+
+(\|.*?\|)\1*
+
+de_dust2 |A| the best |BB|map!
+
+hva6ta i "A" i "BB"
+
+
+//WE USE %f PLACEHOLDER BECAUSE IT CUTS TO THE 6TH DIGIT

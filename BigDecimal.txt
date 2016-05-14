@@ -1,0 +1,7 @@
+According to the definition given by Tutorials Point, the toPlainString() method belongs to java.math.BigDecimal class . . and it returns the String representation of the BigDecimal without an exponential field 
+
+Means a number like 1.23E+4 with toString() Method will be represented as 1.23E+7 and with toPlainString() Method will be represented as 1230000.
+
+Number          toString()               toPlainString()
+
+1.23E+4              1.23E+7                   1230000

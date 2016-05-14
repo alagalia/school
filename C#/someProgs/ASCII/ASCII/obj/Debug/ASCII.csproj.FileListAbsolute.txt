@@ -1,0 +1,6 @@
+D:\SCHOOL\ASCII\ASCII\bin\Debug\ASCII.exe.config
+D:\SCHOOL\ASCII\ASCII\bin\Debug\ASCII.exe
+D:\SCHOOL\ASCII\ASCII\bin\Debug\ASCII.pdb
+D:\SCHOOL\ASCII\ASCII\obj\Debug\ASCII.csprojResolveAssemblyReference.cache
+D:\SCHOOL\ASCII\ASCII\obj\Debug\ASCII.exe
+D:\SCHOOL\ASCII\ASCII\obj\Debug\ASCII.pdb

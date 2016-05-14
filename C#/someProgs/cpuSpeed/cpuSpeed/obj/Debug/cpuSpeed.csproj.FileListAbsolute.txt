@@ -1,0 +1,6 @@
+D:\SCHOOL\cpuSpeed\cpuSpeed\bin\Debug\cpuSpeed.exe.config
+D:\SCHOOL\cpuSpeed\cpuSpeed\obj\Debug\cpuSpeed.csprojResolveAssemblyReference.cache
+D:\SCHOOL\cpuSpeed\cpuSpeed\bin\Debug\cpuSpeed.exe
+D:\SCHOOL\cpuSpeed\cpuSpeed\bin\Debug\cpuSpeed.pdb
+D:\SCHOOL\cpuSpeed\cpuSpeed\obj\Debug\cpuSpeed.exe
+D:\SCHOOL\cpuSpeed\cpuSpeed\obj\Debug\cpuSpeed.pdb
