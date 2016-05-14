@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bitFlipper", "bitFlipper\bitFlipper.csproj", "{C3887F8E-745C-4402-B2D1-B8F88D73F1A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiggleWiggle", "WiggleWiggle\WiggleWiggle.csproj", "{F72192B9-DE99-47CB-B237-775C7DC9E200}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitShooter", "BitShooter\BitShooter.csproj", "{1C2F435B-968E-4236-B087-E6E19A69D6D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitRoller", "BitRoller\BitRoller.csproj", "{CCE6144B-C4F6-4655-8FE8-779A7DE395D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shuffleBits", "shuffleBits\shuffleBits.csproj", "{84520D3A-FFAC-4E19-924F-E9AE1F2545D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitsKiller---", "BitsKiller\BitsKiller---.csproj", "{20C98501-08CC-4F64-8A26-B5C1CFB5ED14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchTheBits", "CatchTheBits\CatchTheBits.csproj", "{5C9F104E-723D-4125-820B-B5CED312F028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3887F8E-745C-4402-B2D1-B8F88D73F1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3887F8E-745C-4402-B2D1-B8F88D73F1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3887F8E-745C-4402-B2D1-B8F88D73F1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3887F8E-745C-4402-B2D1-B8F88D73F1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F72192B9-DE99-47CB-B237-775C7DC9E200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72192B9-DE99-47CB-B237-775C7DC9E200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72192B9-DE99-47CB-B237-775C7DC9E200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72192B9-DE99-47CB-B237-775C7DC9E200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2F435B-968E-4236-B087-E6E19A69D6D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2F435B-968E-4236-B087-E6E19A69D6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2F435B-968E-4236-B087-E6E19A69D6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2F435B-968E-4236-B087-E6E19A69D6D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCE6144B-C4F6-4655-8FE8-779A7DE395D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE6144B-C4F6-4655-8FE8-779A7DE395D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE6144B-C4F6-4655-8FE8-779A7DE395D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE6144B-C4F6-4655-8FE8-779A7DE395D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84520D3A-FFAC-4E19-924F-E9AE1F2545D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84520D3A-FFAC-4E19-924F-E9AE1F2545D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84520D3A-FFAC-4E19-924F-E9AE1F2545D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84520D3A-FFAC-4E19-924F-E9AE1F2545D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C98501-08CC-4F64-8A26-B5C1CFB5ED14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C98501-08CC-4F64-8A26-B5C1CFB5ED14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C98501-08CC-4F64-8A26-B5C1CFB5ED14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C98501-08CC-4F64-8A26-B5C1CFB5ED14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C9F104E-723D-4125-820B-B5CED312F028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9F104E-723D-4125-820B-B5CED312F028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9F104E-723D-4125-820B-B5CED312F028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9F104E-723D-4125-820B-B5CED312F028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
