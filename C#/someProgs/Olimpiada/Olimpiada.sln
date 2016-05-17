@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olimpiada", "Olimpiada\Olimpiada.csproj", "{56B656B8-6198-4D3B-8591-37A209D1AA28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task01", "Task01\Task01.csproj", "{122C0DD9-9379-43C3-9F02-936C9BE082D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56B656B8-6198-4D3B-8591-37A209D1AA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B656B8-6198-4D3B-8591-37A209D1AA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B656B8-6198-4D3B-8591-37A209D1AA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B656B8-6198-4D3B-8591-37A209D1AA28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{122C0DD9-9379-43C3-9F02-936C9BE082D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122C0DD9-9379-43C3-9F02-936C9BE082D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122C0DD9-9379-43C3-9F02-936C9BE082D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122C0DD9-9379-43C3-9F02-936C9BE082D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace hwOOP
+namespace T01Person
 {
     class Persons
     {

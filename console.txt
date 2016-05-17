@@ -1,0 +1,4 @@
+ConsoleColor currentColor = Color.ForegroundColor;
+Console.ForegroundColor = ConsoleColor.Red;
+cw -> message
+Console.ForegroundColor = currentColor;
